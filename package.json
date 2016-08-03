@@ -1,0 +1,16 @@
+{
+  "name": "AzureSample",
+  "version": "1.0.0",
+  "description": "create Azure resource with service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chaochao",
+  "license": "ISC",
+  "dependencies": {
+    "azure-arm-resource": "^1.4.5-preview",
+    "bluebird": "^3.4.1",
+    "ms-rest-azure": "^1.14.5"
+  }
+}
